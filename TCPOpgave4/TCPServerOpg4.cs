@@ -4,7 +4,7 @@ using System.Net;
 using System.Net.Sockets;
 using System.Threading.Tasks;
 
-class Program
+class TCPServerOpg4
 {
     static void Main(string[] args)
     {
